@@ -47,7 +47,7 @@ a:hover {
 
 .inner {
   padding: 20px;
-  background: #fff;
+  background: #1E2B5A;
   max-width: 850px;
   margin: auto;
   display: flex; 
@@ -59,9 +59,11 @@ a:hover {
     width: 50%;
     padding-top: 36px;
     padding-left: 45px;
-    padding-right: 45px; }
+    padding-right: 45px; 
+  }
   .inner h3 {
     text-transform: uppercase;
+    color: white;
     font-size: 25px;
     font-family: "Poppins-SemiBold";
     text-align: center;
