@@ -51,7 +51,7 @@ a:hover {
   max-width: 850px;
   margin: auto;
   display: flex; 
-  box-shadow: 2px 2px 2px 2px black;
+  box-shadow: 0 5px 5px rgba(0,0,0,0.8);
 }
   .inner .image-holder {
     width: 50%; }
