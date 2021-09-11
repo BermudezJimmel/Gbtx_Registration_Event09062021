@@ -68,6 +68,9 @@ a:hover {
     font-family: "Poppins-SemiBold";
     text-align: center;
     margin-bottom: 10px; }
+  .inner p {
+    color: white;
+  }
 
 .form-group {
   display: flex; }
