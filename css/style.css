@@ -41,14 +41,19 @@ a:hover {
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
-  align-items: center; }
+  align-items: center; 
+
+}
 
 .inner {
   padding: 20px;
   background: #fff;
   max-width: 850px;
   margin: auto;
-  display: flex; }
+  display: flex; 
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px 5px #1C2A5A;
+}
   .inner .image-holder {
     width: 50%; }
   .inner form {
