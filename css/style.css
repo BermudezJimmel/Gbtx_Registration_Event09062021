@@ -52,9 +52,15 @@ a:hover {
   margin: auto;
   display: flex; 
   box-shadow: 0 7px 10px rgba(0,0,0,0.8);
+  align-items: center;
+  align-content: center;
 }
   .inner .image-holder {
-    width: 50%; }
+    width: 50%; 
+    align-items: center;
+    align-content: center;
+    align
+  }
   .inner form {
     width: 50%;
     padding-top: 36px;
