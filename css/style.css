@@ -63,8 +63,8 @@
 
   }
   .inner form{
-    margin: auto;
-    padding: auto;
+		padding-left: 30px;
+		padding-right: 30px;
   }
   
   .inner h3 {
